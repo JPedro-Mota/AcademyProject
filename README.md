@@ -11,11 +11,10 @@ Sugestões de exercícios fornecidas por uma API integrada
 Interface amigável e intuitiva para facilitar o uso
 
 🚀 Tecnologias utilizadas:
-Backend: Spring Boot / Node.js (ajuste conforme sua stack)
+Backend: Spring Boot 
 
-Frontend: Vue.js / React (ajuste conforme sua stack)
-
-Banco de dados: PostgreSQL / MongoDB (ajuste conforme sua stack)
+Frontend: Vue.js 
+Banco de dados: PostgreSQL
 
 Autenticação com JWT
 
